@@ -120,3 +120,26 @@ footer {
     justify-content: center;
     color: white;
 }
+.hobbies {
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+
+.hobbies .section_item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 3em;
+}
+
+.hobbies i {
+    font-size: 5vw;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.hobbies p {
+    font-size: 1.2em;
+    font-weight: 500;
+}
